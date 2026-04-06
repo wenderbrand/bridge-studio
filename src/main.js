@@ -121,14 +121,14 @@ document.querySelectorAll('.lang-btn').forEach(b=>b.addEventListener('click',()=
 // ═══ PROJECT PAGES (SPA) ═══
 const projects = {
   'projeto-1': {
-    name: 'Seu Projeto Aqui',
+    name: 'Defensoria Pública SP',
     year: '2025',
-    tags: ['Branding', 'Direção de Arte'],
+    tags: ['Branding',],
     cover: 'https://images.unsplash.com/photo-1634986666676-ec8fd927c23d?w=1400&h=800&fit=crop&crop=center',
     headline: 'Uma identidade visual completa que reposicionou a marca no mercado e triplicou o reconhecimento em 6 meses.',
-    client: 'Nome do cliente',
-    sector: 'Tecnologia',
-    scope: 'Brand Identity, Direção de Arte, Brandbook',
+    client: 'Defensoria Pública',
+    sector: 'Governo',
+    scope: 'Posicionamento, Branding , Id. Visual',
     text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto — qual era o problema do cliente, o que eles precisavam resolver, como chegaram até a Bridge.',
     text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido — o conceito criativo, as decisões estratégicas, como a identidade visual foi construída do zero.',
     text3: '<strong>O resultado:</strong> Compartilhe os resultados reais — métricas, feedback do cliente, impacto no negócio, reconhecimento de mercado.',
@@ -137,16 +137,16 @@ const projects = {
       'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&h=450&fit=crop',
       'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&h=450&fit=crop'
     ],
-    next: 'projeto-2'
+    next: 'Daniel Oliveira'
   },
   'projeto-2': {
-    name: 'Seu Projeto Aqui',
+    name: 'Daniel Oliveira',
     year: '2025',
-    tags: ['Identidade Visual', 'Packaging'],
+    tags: ['Identidade Visual', 'Branding'],
     cover: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1400&h=800&fit=crop',
-    headline: 'Do conceito à embalagem: uma marca de cosméticos que comunica sofisticação em cada detalhe.',
-    client: 'Nome do cliente',
-    sector: 'Beleza & Cosméticos',
+    headline: 'Do conceito à execução: uma marcaque comunica sofisticação em cada detalhe.',
+    client: 'Daniel Oliveira',
+    sector: 'Arquiteto e Urbanista',
     scope: 'Identidade Visual, Packaging, Brandbook',
     text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
     text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
@@ -156,17 +156,17 @@ const projects = {
       'https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&h=450&fit=crop',
       'https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&h=450&fit=crop'
     ],
-    next: 'projeto-3'
+    next: 'Kauan Show'
   },
   'projeto-3': {
-    name: 'Seu Projeto Aqui',
+    name: 'Kauan Show',
     year: '2024',
-    tags: ['Web Design', 'UI/UX'],
+    tags: ['Identidade Visual', 'Branding'],
     cover: 'https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1400&h=800&fit=crop',
-    headline: 'Um site que traduz a solidez do escritório em uma experiência digital elegante e funcional.',
-    client: 'Nome do cliente',
-    sector: 'Arquitetura',
-    scope: 'Web Design, UI/UX, Desenvolvimento',
+    headline: 'Projeto criado para um profissional de arte e design.',
+    client: 'Kauan',
+    sector: 'Design e Criação',
+    scope: 'Posicionamento, Branding , Id. Visual',
     text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
     text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
     text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
@@ -175,17 +175,17 @@ const projects = {
       'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=450&fit=crop',
       'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=450&fit=crop'
     ],
-    next: 'projeto-4'
+    next: 'Vies Suplementos'
   },
-  'projeto-4': {
-    name: 'Seu Projeto Aqui',
+  'Vies Suplementos': {
+    name: 'Vies Suplementos',
     year: '2024',
-    tags: ['Social Media', 'Motion'],
+    tags: ['Identidade Visual', 'Branding'],
     cover: 'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1400&h=800&fit=crop',
-    headline: 'Conteúdo visual estratégico que transformou o Instagram em canal de conversão.',
-    client: 'Nome do cliente',
-    sector: 'Lifestyle',
-    scope: 'Social Media, Motion Design, Templates',
+    headline: 'Marca estratégica que transformou o conceito de suplementos naturais.',
+    client: 'Vinicius',
+    sector: 'Suplementos',
+    scope: 'Posicionamento, Branding , Id. Visual',
     text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
     text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
     text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
@@ -194,17 +194,17 @@ const projects = {
       'https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=450&fit=crop',
       'https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=600&h=450&fit=crop'
     ],
-    next: 'projeto-5'
+    next: 'Dressfit'
   },
-  'projeto-5': {
-    name: 'Seu Projeto Aqui',
-    year: '2024',
-    tags: ['Brand Strategy', 'UI Design'],
+  'Dressfit': {
+    name: 'Dressfit',
+    year: '2025',
+    tags: ['Identidade Visual', 'Branding'],
     cover: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1400&h=800&fit=crop',
     headline: 'Estratégia de marca e interface digital para uma fintech que queria se diferenciar.',
-    client: 'Nome do cliente',
-    sector: 'Fintech',
-    scope: 'Brand Strategy, UI Design, Design System',
+    client: 'Daiane',
+    sector: 'Moda Fitness Feminica',
+    scope: 'Posicionamento, Branding , Id. Visual',
     text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
     text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
     text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
@@ -213,7 +213,7 @@ const projects = {
       'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=450&fit=crop',
       'https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&h=450&fit=crop'
     ],
-    next: 'projeto-1'
+    next: 'Defensoria Pública SP'
   }
 };
 
