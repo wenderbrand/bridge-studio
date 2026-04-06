@@ -177,7 +177,7 @@ const projects = {
     ],
     next: 'Vies Suplementos'
   },
-  'Vies Suplementos': {
+  'projeto-4': {
     name: 'Vies Suplementos',
     year: '2024',
     tags: ['Identidade Visual', 'Branding'],
@@ -196,7 +196,7 @@ const projects = {
     ],
     next: 'Dressfit'
   },
-  'Dressfit': {
+  'projeto-5': {
     name: 'Dressfit',
     year: '2025',
     tags: ['Identidade Visual', 'Branding'],
