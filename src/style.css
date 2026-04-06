@@ -144,6 +144,20 @@
   .project-card:hover .project-arrow svg{stroke:var(--bg-deepest);}
 
   /* ═══ ABOUT ═══ */
+
+.about-image-placeholder {
+  width: 100%;
+  aspect-ratio: 4/5;
+  overflow: hidden;
+}
+
+.about-image-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
   .about-section{display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:center;}
   .about-image-wrap{position:relative;aspect-ratio:3/4;overflow:hidden;border-radius:4px;}
   .about-image-wrap::before{content:'';position:absolute;inset:-1px;border:1px solid var(--border);z-index:2;pointer-events:none;border-radius:4px;}
