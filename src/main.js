@@ -124,18 +124,18 @@ const projects = {
     name: 'Defensoria Pública SP',
     year: '2025',
     tags: ['Branding',],
-    cover: 'https://images.unsplash.com/photo-1634986666676-ec8fd927c23d?w=1400&h=800&fit=crop&crop=center',
+    cover: 'https://i.imgur.com/dlBe74S.jpeg',
     headline: 'Uma identidade visual completa que reposicionou a marca da Defensoria em todo o estado.',
     client: 'Defensoria Pública',
-    sector: 'Governamental',
+    sector: 'Assistência jurídica',
     scope: 'Posicionamento, Branding , Id. Visual',
-    text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto — qual era o problema do cliente, o que eles precisavam resolver, como chegaram até a Bridge.',
-    text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido — o conceito criativo, as decisões estratégicas, como a identidade visual foi construída do zero.',
-    text3: '<strong>O resultado:</strong> Compartilhe os resultados reais — métricas, feedback do cliente, impacto no negócio, reconhecimento de mercado.',
+    text1: '<strong>O desafio:</strong> A Defensoria Pública enfrentava dificuldades em transmitir, de forma clara e acessível, sua importância e atuação para a população. A comunicação visual existente não refletia plenamente os valores de acolhimento, confiança e justiça, além de apresentar pouca consistência e baixa identificação com o público. Era necessário desenvolver uma solução que aproximasse a instituição das pessoas, tornando sua presença mais clara, humana e confiável.',
+    text2: '<strong>A solução:</strong> Foi desenvolvida uma identidade visual estratégica, pensada para reforçar os pilares da instituição e facilitar a comunicação com o público. O conceito criativo partiu da ideia de acessibilidade e acolhimento, traduzidos em uma linguagem visual simples, moderna e institucional ao mesmo tempo. As escolhas de cores, tipografia e elementos gráficos foram cuidadosamente definidas para transmitir confiança, seriedade e proximidade. O resultado foi uma identidade construída do zero, consistente e funcional, capaz de fortalecer o posicionamento da Defensoria e melhorar a percepção do público sobre seus serviços.',
+    text3: '<strong>O resultado:</strong> A nova identidade visual trouxe mais clareza e consistência para a comunicação da Defensoria Pública, fortalecendo sua presença institucional e tornando sua atuação mais compreensível para a população. Com uma linguagem visual mais acessível e acolhedora, a instituição passou a transmitir maior confiança e proximidade, facilitando a conexão com o público. Além disso, o sistema visual desenvolvido permitiu maior padronização nos materiais, otimizando a aplicação da marca em diferentes canais e garantindo reconhecimento imediato. O projeto contribuiu para uma percepção mais moderna, organizada e alinhada aos valores da Defensoria, reforçando seu papel essencial na promoção da justiça e no atendimento à população.',
     gallery: [
-      'https://images.unsplash.com/photo-1634986666676-ec8fd927c23d?w=1200&h=675&fit=crop',
-      'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&h=450&fit=crop',
-      'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&h=450&fit=crop'
+      'https://i.imgur.com/jDrlA6y.jpeg',
+      'https://i.imgur.com/RXUtT5K.jpeg',
+      'https://i.imgur.com/D79wTvW.png'
     ],
     next: 'Daniel Oliveira'
   },
