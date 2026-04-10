@@ -162,24 +162,24 @@ const projects = {
     name: 'Kauan Show',
     year: '2024',
     tags: ['Identidade Visual', 'Branding'],
-    cover: 'https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1400&h=800&fit=crop',
+    cover: 'https://i.imgur.com/2uwVOAB.jpeg',
     headline: 'Projeto criado para um profissional de arte e design.',
     client: 'Kauan',
     sector: 'Design e Criação',
     scope: 'Posicionamento, Branding , Id. Visual',
-    text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
-    text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
-    text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
+    text1: '<strong>O desafio:</strong> Criar uma identidade visual que representasse a personalidade criativa e versátil de Kauan Show, um profissional da área de arte e design. O principal desafio era traduzir sua originalidade em uma marca forte e autêntica, capaz de se destacar em um mercado visualmente saturado, ao mesmo tempo em que transmitisse profissionalismo e coerência estética.',
+    text2: '<strong>A solução:</strong> A identidade foi construída a partir de um conceito contemporâneo e expressivo, explorando contrastes marcantes, elementos gráficos dinâmicos e uma linguagem visual impactante. O símbolo foi desenvolvido de forma única, reforçando a personalidade da marca e garantindo alto reconhecimento. A paleta vibrante, aliada a composições modernas, cria um sistema visual flexível, ideal para aplicações digitais e promocionais.',
+    text3: '<strong>O resultado:</strong> O projeto resultou em uma marca ousada, memorável e alinhada ao universo criativo do profissional. A nova identidade fortalece seu posicionamento, aumenta a percepção de valor e diferencia sua presença no mercado. Com uma comunicação visual consistente e marcante, Kauan Show passa a transmitir mais autoridade, autenticidade e conexão com seu público.',
     gallery: [
-      'https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1200&h=675&fit=crop',
-      'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=450&fit=crop',
-      'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=450&fit=crop'
+      'https://i.imgur.com/DKgZ7ye.jpeg',
+      'https://i.imgur.com/JQKjFzT.jpeg',
+      'https://i.imgur.com/53rjKV3.jpeg'
     ],
     next: 'Vies Suplementos'
   },
   'projeto-4': {
     name: 'Vies Suplementos',
-    year: '2024',
+    year: '2025',
     tags: ['Identidade Visual', 'Branding'],
     cover: 'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1400&h=800&fit=crop',
     headline: 'Marca estratégica que transformou o conceito de suplementos naturais.',
