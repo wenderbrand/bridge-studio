@@ -143,18 +143,18 @@ const projects = {
     name: 'Daniel Oliveira',
     year: '2025',
     tags: ['Identidade Visual', 'Branding'],
-    cover: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1400&h=800&fit=crop',
+    cover: 'https://i.imgur.com/zrvudXt.jpeg',
     headline: 'Do conceito à execução: uma marca que comunica sofisticação em cada detalhe.',
     client: 'Daniel Oliveira',
     sector: 'Arquiteto e Urbanista',
     scope: 'Identidade Visual, Packaging, Brandbook',
-    text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
-    text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
-    text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
+    text1: '<strong>O desafio:Desenvolver uma identidade visual que refletisse o posicionamento profissional de Daniel Oliveira no mercado de arquitetura, transmitindo sofisticação, autoridade e atenção aos detalhes. A marca precisava se destacar em um segmento competitivo, criando uma presença forte, memorável e alinhada ao perfil de clientes que buscam projetos modernos e de alto padrão.',
+    text2: '<strong>A solução:</strong> A identidade visual foi construída com base em um conceito minimalista e arquitetônico, explorando formas geométricas e uma tipografia limpa para reforçar precisão e profissionalismo. O símbolo foi desenvolvido a partir da inicial “D”, trazendo solidez e fácil reconhecimento. A paleta de cores e os elementos gráficos foram pensados para transmitir elegância e modernidade, enquanto o sistema visual garante versatilidade em diferentes aplicações, do digital ao físico.',
+    text3: '<strong>O resultado:</strong> O projeto resultou em uma marca forte, sofisticada e altamente reconhecível, elevando a percepção de valor do profissional no mercado. A nova identidade transmite confiança e profissionalismo, contribuindo para atrair clientes mais alinhados com o seu posicionamento e facilitando a comunicação em todos os pontos de contato. A consistência visual fortalece a presença da marca e consolida sua imagem como referência em projetos arquitetônicos de qualidade.',
     gallery: [
-      'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&h=675&fit=crop',
-      'https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&h=450&fit=crop',
-      'https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&h=450&fit=crop'
+      'https://i.imgur.com/Qo9YZMN.jpeg',
+      'https://i.imgur.com/c2vrXzb.jpeg',
+      'https://i.imgur.com/chb7MzX.jpeg'
     ],
     next: 'Kauan Show'
   },
