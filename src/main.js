@@ -210,7 +210,7 @@ const projects = {
     text3: '<strong>O resultado:</strong> O projeto resultou em uma marca forte, estilosa e altamente conectada com seu público. A nova identidade eleva a percepção de valor da Dressfit, fortalece seu posicionamento no segmento fitness feminino e cria uma presença visual marcante. Com consistência e personalidade, a marca se torna mais reconhecível e preparada para crescer no mercado.',
     gallery: [
       'https://i.imgur.com/UHpxY05.jpeg',
-      'https://i.imgur.com/Dudjam7.jpeg,
+      'https://i.imgur.com/Dudjam7.jpeg',
       'https://i.imgur.com/XFfSc5f.png'
     ],
     next: 'Defensoria Pública SP'
