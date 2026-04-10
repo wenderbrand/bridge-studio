@@ -203,7 +203,7 @@ const projects = {
     cover: 'https://i.imgur.com/q5Tngte.jpeg',
     headline: 'Estratégia de marca e Posicionamento para uma loja de moda fitness feminina que queria se diferenciar.',
     client: 'Daiane',
-    sector: 'Moda Fitness Feminica',
+    sector: 'Moda Fitness Feminina',
     scope: 'Posicionamento, Branding , Id. Visual',
     text1: '<strong>O desafio:</strong> Criar uma identidade visual para a Dressfit que representasse a força, a autoestima e o estilo da mulher moderna no universo fitness. O desafio era desenvolver uma marca que fosse ao mesmo tempo feminina e impactante, capaz de se destacar em um mercado competitivo e transmitir confiança, movimento e atitude.',
     text2: '<strong>A solução:</strong> A identidade foi construída com uma abordagem moderna e dinâmica, explorando tipografia marcante e elementos visuais que remetem ao movimento e à energia do lifestyle fitness. A paleta de cores foi pensada para equilibrar força e feminilidade, criando uma estética versátil e atraente. O sistema visual permite aplicações consistentes em peças como roupas, etiquetas, redes sociais e campanhas.',
