@@ -200,7 +200,7 @@ const projects = {
     name: 'Dressfit',
     year: '2025',
     tags: ['Identidade Visual', 'Branding'],
-    cover: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1400&h=800&fit=crop',
+    cover: 'https://i.imgur.com/q5Tngte.jpeg',
     headline: 'Estratégia de marca e Posicionamento para uma loja de moda fitness feminina que queria se diferenciar.',
     client: 'Daiane',
     sector: 'Moda Fitness Feminica',
