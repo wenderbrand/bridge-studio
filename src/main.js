@@ -181,18 +181,18 @@ const projects = {
     name: 'Vies Suplementos',
     year: '2025',
     tags: ['Identidade Visual', 'Branding'],
-    cover: 'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1400&h=800&fit=crop',
+    cover: 'https://i.imgur.com/TADgmeU.png',
     headline: 'Marca estratégica que transformou o conceito de suplementos naturais.',
     client: 'Vinicius',
     sector: 'Suplementos',
     scope: 'Posicionamento, Branding , Id. Visual',
-    text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
-    text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
-    text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
+    text1: '<strong>O desafio:</strong> Desenvolver uma identidade visual para a Vies Suplementos que transmitisse confiança, qualidade e naturalidade, destacando seus produtos em um mercado competitivo de saúde e bem-estar. O desafio era criar uma marca que equilibrasse o aspecto científico dos suplementos com uma comunicação acessível e próxima do público.',
+    text2: '<strong>A solução:</strong> A identidade foi construída com base em um conceito limpo e moderno, utilizando uma paleta de cores associada à saúde e ao natural. Elementos gráficos sutis e uma tipografia clara foram escolhidos para reforçar a credibilidade da marca, enquanto o símbolo traz uma representação visual que remete ao cuidado e equilíbrio. O sistema visual foi pensado para funcionar de forma consistente em embalagens, redes sociais e materiais institucionais.',
+    text3: '<strong>O resultado:</strong> O projeto resultou em uma marca confiável, moderna e alinhada ao universo de bem-estar. A nova identidade fortalece a presença da Vies no mercado, melhora a percepção de qualidade dos produtos e cria uma conexão mais direta com o público. Com uma comunicação visual consistente, a marca se posiciona de forma mais profissional e preparada para crescer no segmento de suplementos naturais.',
     gallery: [
-      'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=675&fit=crop',
-      'https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=450&fit=crop',
-      'https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=600&h=450&fit=crop'
+      'https://i.imgur.com/GdSYJNc.png',
+      'https://i.imgur.com/dc05V49.png',
+      'https://i.imgur.com/j6Dn1ve.png'
     ],
     next: 'Dressfit'
   },
