@@ -205,13 +205,13 @@ const projects = {
     client: 'Daiane',
     sector: 'Moda Fitness Feminica',
     scope: 'Posicionamento, Branding , Id. Visual',
-    text1: '<strong>O desafio:</strong> Descreva aqui o contexto do projeto.',
-    text2: '<strong>A solução:</strong> Conte aqui o que foi desenvolvido.',
-    text3: '<strong>O resultado:</strong> Compartilhe os resultados reais.',
+    text1: '<strong>O desafio:</strong> Criar uma identidade visual para a Dressfit que representasse a força, a autoestima e o estilo da mulher moderna no universo fitness. O desafio era desenvolver uma marca que fosse ao mesmo tempo feminina e impactante, capaz de se destacar em um mercado competitivo e transmitir confiança, movimento e atitude.',
+    text2: '<strong>A solução:</strong> A identidade foi construída com uma abordagem moderna e dinâmica, explorando tipografia marcante e elementos visuais que remetem ao movimento e à energia do lifestyle fitness. A paleta de cores foi pensada para equilibrar força e feminilidade, criando uma estética versátil e atraente. O sistema visual permite aplicações consistentes em peças como roupas, etiquetas, redes sociais e campanhas.',
+    text3: '<strong>O resultado:</strong> O projeto resultou em uma marca forte, estilosa e altamente conectada com seu público. A nova identidade eleva a percepção de valor da Dressfit, fortalece seu posicionamento no segmento fitness feminino e cria uma presença visual marcante. Com consistência e personalidade, a marca se torna mais reconhecível e preparada para crescer no mercado.',
     gallery: [
-      'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=675&fit=crop',
-      'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=450&fit=crop',
-      'https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&h=450&fit=crop'
+      'https://i.imgur.com/UHpxY05.jpeg',
+      'https://i.imgur.com/Dudjam7.jpeg,
+      'https://i.imgur.com/XFfSc5f.png'
     ],
     next: 'Defensoria Pública SP'
   }
